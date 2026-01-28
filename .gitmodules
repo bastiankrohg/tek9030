@@ -1,0 +1,6 @@
+[submodule "cv-lab00"]
+	path = cv-lab00
+	url = git@github.com:bastiankrohg/cv-lab00.git
+[submodule "cv-lab01"]
+	path = cv-lab01
+	url = git@github.com:bastiankrohg/cv-lab01.git
