@@ -27,7 +27,7 @@ Lectures and labs, spring 2026
 - Week 12: Multiple-view geometry (exercises) ([mine TODO]())
 - Week 13: Visual SLAM
 
-Assignments: reflection assessments of two labs
+### Assignments: reflection assessments of two labs
 Mine:
 1) TODO
 2) TODO
