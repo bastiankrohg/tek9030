@@ -12,16 +12,22 @@ Canvas link: https://uio.instructure.com/calendar?include_contexts=course_62635#
 Resource pages: https://tek5030.github.io/
 
 Lectures and labs, spring 2026
-Week 1: Introduction (cpp, py) ([mine](https://github.com/bastiankrohg/cv-lab00))
-Week 2: Image formation (cpp, py) ([mine](https://github.com/bastiankrohg/cv-lab01))
-Week 3: Image processing (cpp, py) ([mine TODO]())
-Week 4: Image analysis (cpp, py) ([mine TODO]())
-Week 5: Deep learning (dnn applications) ([mine TODO]())
-Week 6: Feature detection (cpp, py) ([mine TODO]())
-Week 7: Feature matching (cpp, py) ([mine TODO]())
-Week 8: 3D pose and Lie theory in practice (cpp, py) ([mine TODO]())
-Week 9: Single-view geometry (cpp, py) ([mine TODO]())
-Week 10: Stereo imaging (py) ([mine TODO]())
-Week 11: Two-view geometry (py) ([mine TODO]())
-Week 12: Multiple-view geometry (exercises) ([mine TODO]())
-Week 13: Visual SLAM
+
+- Week 1: Introduction (cpp, py) ([mine](https://github.com/bastiankrohg/cv-lab00))
+- Week 2: Image formation (cpp, py) ([mine](https://github.com/bastiankrohg/cv-lab01))
+- Week 3: Image processing (cpp, py) ([mine TODO]())
+- Week 4: Image analysis (cpp, py) ([mine TODO]())
+- Week 5: Deep learning (dnn applications) ([mine TODO]())
+- Week 6: Feature detection (cpp, py) ([mine TODO]())
+- Week 7: Feature matching (cpp, py) ([mine TODO]())
+- Week 8: 3D pose and Lie theory in practice (cpp, py) ([mine TODO]())
+- Week 9: Single-view geometry (cpp, py) ([mine TODO]())
+- Week 10: Stereo imaging (py) ([mine TODO]())
+- Week 11: Two-view geometry (py) ([mine TODO]())
+- Week 12: Multiple-view geometry (exercises) ([mine TODO]())
+- Week 13: Visual SLAM
+
+Assignments: reflection assessments of two labs
+Mine:
+1) TODO
+2) TODO
